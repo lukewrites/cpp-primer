@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Sales_item.h"
 
-int main(int argc, char const *argv[])
+int main()
 {
     Sales_item total; // var to hold data for next transaction
     // read first transac and ensure there are data to process
